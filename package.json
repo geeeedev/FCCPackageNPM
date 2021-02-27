@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
+	"author":"GeeDev",
+  "description":"GeeDev's project to learn to build APIs and Microservices",
+  "dependencies": {
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
