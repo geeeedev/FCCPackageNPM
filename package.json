@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"GeeDev",
   "description":"GeeDev's project to learn to build APIs and Microservices",
+  "keywords":["api","microservices","freecodecamp","learn"],
   "dependencies": {
 		"express": "^4.17.1"
 	},
